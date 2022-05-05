@@ -1,0 +1,31 @@
+https://github.com/Nate711/StanfordDoggoProject
+This project caught my eye because as a kid I always had robotic pets. I grew up in NYC and back when I was growing up, apartments were not as pet friendly as 
+they are now. If I wanted a pet it had to be a machine. I was that six year old that was handy with a screwdriver and I was always taking apart my robots to see how 
+they worked. This project speaks to my inner child. The project is open source and they give a lot of pictures and instructions on what parts are needed and how to get
+the program to work. I'm holding on to this repository so that when I'm farther along in my studies I can try to tinker with this myself.
+
+https://github.com/lachtren/viruSim
+This code is suppose to simulate a viral outbreak. I'm in the sim/vis program so this was very interesting to see. 
+This has shown me that when I graduate I can  use my newly gained skills for more than creating fun vr games. 
+I could create simulations that can help create solutions for issues such as pandemics. 
+
+https://github.com/novalain/inverse-kinematics
+This is a simulation of a walking human using inverse kinematics and skinning of vertices. 
+As simple as this may be, I thought this was cool because the logic behind making this code is something that 
+I just learned in linear algebra in my last class. I plan on seeing if i can actually use this code in a little personal project in unity. 
+It's just nice to see how something I am learning can be applied to things I want to do in the future.
+
+https://github.com/xfgao/VRKitchen
+This is a virtual kitchen environment. I really like the idea of this simulation. I love to cook and this immediately made me think 
+"how cool would it be to learn recipes through vr training". The possibilities don't end there. 
+I'm excited just thinking of all of the possibilities of d.i.y. project simulations.
+
+https://github.com/pablolucianop/teach-dog-a-trick
+this code is for a small game which involes teaching a dog a trick. The appearance of the dog is cartoonish but I like it.
+I currently work as an animal control officer and there is a lack of proper training for new officers. 
+I want to create simulations that could be used as training for new officers. 
+
+https://github.com/github/gitignore
+I think I found the mother of gitignore. I still don't understand fully as to what it is or what it does, but I am looking forward to 
+learning it about it more in class. I am also going to start watching some videos on it. Even though I don't understand it, gitignore seems 
+like it will be a very important component in my programming journey.
